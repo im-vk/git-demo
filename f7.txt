@@ -1,3 +1,4 @@
 f7.txt file created
 
 Hello all 
+how are you
